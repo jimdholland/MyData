@@ -8,7 +8,7 @@
     {"name": "PHP Very Good"},
     {"name": "PHP Good"},
     {"name": "PHP Fair"},
-    {"name": "PHP Poor"},
+    {"name": "PHP Poor"}
   ],
   "links": [
     {"source": 0, "target": 4, "value": 28},
