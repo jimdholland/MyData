@@ -1,4 +1,4 @@
-﻿HistLabel,Overall,StaffPol,HelpPol,NursesPol,TherapistPol,TimePol,DocPol,NeedPol,PatientsPol,PeoplePol,FoodPol,SmokePol,ColdPol,MedsPol,CommunicationPol
+﻿HistLabel,Overall,Staff,Help,Nurses,Therapist,Time,Doc,Need,Patients,People,Food,Smoke,Cold,Meds,Communication
 polN0.02,55,13,11,5,6,9,6,5,9,3,4,1, ,9,1
 polN0.07,77,20,12,8,4,13,14,12,15,3,1,1,1,9,1
 polN0.12,90,25,11,9,5,18,10,19,13,6,3,2,3,11,3
