@@ -1,4 +1,4 @@
-Patient Name,Medical #,Admission Score,Discharge Score,Date Admitted
+PatientName,MedicalNum,AdmissionScore,DischargeScore,DateAdmitted
 John Doe 1,111111,3.241047029,3.599827587,1/4/2013
 John Doe 2,111112,2.212359785,1.003531111,1/4/2013
 John Doe 3,111113,4.627011207,2.883883645,1/6/2013
