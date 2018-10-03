@@ -1,0 +1,886 @@
+﻿agegrp	gender	year	cause_code	rate	relrank	DxDesc
+Birth to 6	M	2015	29680	.0390037593984962	6	Bipolar disorder NOS
+Birth to 6	M	2015	29690	.257988721804511	1	Episodic mood disord NOS
+Birth to 6	M	2015	29699	.132988721804511	2	Episodic mood disord NEC
+Birth to 6	M	2015	30981	.018796992481203	10.5	Posttraumatic stress dis
+Birth to 6	M	2015	311	.0211466165413534	8.5	Depressive disorder NEC
+Birth to 6	M	2015	3129	.018796992481203	10.5	Conduct disturbance NOS
+Birth to 6	M	2015	31381	.0263157894736842	7	Opposition defiant disor
+Birth to 6	M	2015	31401	.0972744360902256	3	Attn deficit w hyperact
+Birth to 6	M	2015	F348	.0921052631578947	4	Other persistent mood [affective] disorders
+Birth to 6	M	2015	F39	.0469924812030075	5	Unspecified mood [affective] disorder
+Birth to 6	M	2015	F902	.0211466165413534	8.5	Attention-deficit hyperactivity disorder, combined type
+Birth to 6	F	2015	29680	.0360065466448445	6	Bipolar disorder NOS
+Birth to 6	F	2015	29690	.253682487725041	1	Episodic mood disord NOS
+Birth to 6	F	2015	29699	.121112929623568	2	Episodic mood disord NEC
+Birth to 6	F	2015	2989	.0196399345335516	10.5	Psychosis NOS
+Birth to 6	F	2015	30981	.0310965630114566	7.5	Posttraumatic stress dis
+Birth to 6	F	2015	311	.0310965630114566	7.5	Depressive disorder NEC
+Birth to 6	F	2015	3129	.0196399345335516	10.5	Conduct disturbance NOS
+Birth to 6	F	2015	31401	.060556464811784	4	Attn deficit w hyperact
+Birth to 6	F	2015	F319	.0245499181669394	9	Bipolar disorder, unspecified
+Birth to 6	F	2015	F348	.0801963993453355	3	Other persistent mood [affective] disorders
+Birth to 6	F	2015	F39	.0458265139116203	5	Unspecified mood [affective] disorder
+7-9	M	2015	29680	.0650910499806277	4	Bipolar disorder NOS
+7-9	M	2015	29690	.224848250032287	1	Episodic mood disord NOS
+7-9	M	2015	29699	.114296784192174	2	Episodic mood disord NEC
+7-9	M	2015	30981	.0178225493994576	10	Posttraumatic stress dis
+7-9	M	2015	311	.0237633991992768	9	Depressive disorder NEC
+7-9	M	2015	31381	.0293168022730208	7	Opposition defiant disor
+7-9	M	2015	31401	.0595376469068836	5	Attn deficit w hyperact
+7-9	M	2015	F319	.0263463773731112	8	Bipolar disorder, unspecified
+7-9	M	2015	F348	.0920831718971975	3	Other persistent mood [affective] disorders
+7-9	M	2015	F39	.037582332429291	6	Unspecified mood [affective] disorder
+7-9	F	2015	29680	.0511500171644353	4	Bipolar disorder NOS
+7-9	F	2015	29690	.22176450394782	1	Episodic mood disord NOS
+7-9	F	2015	29699	.0937178166838311	2	Episodic mood disord NEC
+7-9	F	2015	2989	.0319258496395469	8	Psychosis NOS
+7-9	F	2015	30981	.0339855818743563	6	Posttraumatic stress dis
+7-9	F	2015	311	.0312392722279437	9	Depressive disorder NEC
+7-9	F	2015	31381	.0243734981119121	10	Opposition defiant disor
+7-9	F	2015	31401	.0401647785787848	5	Attn deficit w hyperact
+7-9	F	2015	F348	.0744936491589427	3	Other persistent mood [affective] disorders
+7-9	F	2015	F39	.03261242705115	7	Unspecified mood [affective] disorder
+10-12	M	2015	29623	.0209707424319296	10	Depress psychosis-severe
+10-12	M	2015	29633	.0280737358362929	9	Recur depr psych-severe
+10-12	M	2015	29680	.0703534584813124	4	Bipolar disorder NOS
+10-12	M	2015	29690	.189666835785557	1	Episodic mood disord NOS
+10-12	M	2015	29699	.0931845087096229	2	Episodic mood disord NEC
+10-12	M	2015	311	.0359377642482665	7	Depressive disorder NEC
+10-12	M	2015	31401	.0397429392863183	5	Attn deficit w hyperact
+10-12	M	2015	F319	.0300186030779638	8	Bipolar disorder, unspecified
+10-12	M	2015	F348	.0794858785726366	3	Other persistent mood [affective] disorders
+10-12	M	2015	F39	.0365296803652968	6	Unspecified mood [affective] disorder
+10-12	F	2015	29623	.0563144963144963	4	Depress psychosis-severe
+10-12	F	2015	29633	.0841277641277641	2	Recur depr psych-severe
+10-12	F	2015	29634	.0307616707616708	10	Rec depr psych-psychotic
+10-12	F	2015	29680	.0518918918918919	6	Bipolar disorder NOS
+10-12	F	2015	29690	.131007371007371	1	Episodic mood disord NOS
+10-12	F	2015	29699	.0527764127764128	5	Episodic mood disord NEC
+10-12	F	2015	311	.0695823095823096	3	Depressive disorder NEC
+10-12	F	2015	F329	.0314496314496314	9	Major depressive disorder, single episode, unspecified
+10-12	F	2015	F332	.0382309582309582	8	Major depressv disorder, recurrent severe w/o psych features
+10-12	F	2015	F348	.0432432432432432	7	Other persistent mood [affective] disorders
+13-17	M	2015	29620	.0268212493510988	10	Depress psychosis-unspec
+13-17	M	2015	29623	.038044150001236	8	Depress psychosis-severe
+13-17	M	2015	29633	.0809087088720243	2	Recur depr psych-severe
+13-17	M	2015	29680	.0655822806713964	3	Bipolar disorder NOS
+13-17	M	2015	29690	.127926235384273	1	Episodic mood disord NOS
+13-17	M	2015	29699	.055892022841322	4	Episodic mood disord NEC
+13-17	M	2015	311	.0536177786567127	5	Depressive disorder NEC
+13-17	M	2015	F329	.0293921340815267	9	Major depressive disorder, single episode, unspecified
+13-17	M	2015	F332	.042073517415272	7	Major depressv disorder, recurrent severe w/o psych features
+13-17	M	2015	F348	.0461523249202779	6	Other persistent mood [affective] disorders
+13-17	F	2015	29620	.0426418822948188	7	Depress psychosis-unspec
+13-17	F	2015	29623	.0589606620144507	5	Depress psychosis-severe
+13-17	F	2015	29633	.145062681405546	1	Recur depr psych-severe
+13-17	F	2015	29634	.0319891311060335	9	Rec depr psych-psychotic
+13-17	F	2015	29680	.0579262644352498	6	Bipolar disorder NOS
+13-17	F	2015	29690	.0852837645896375	2	Episodic mood disord NOS
+13-17	F	2015	29699	.0299203359476317	10	Episodic mood disord NEC
+13-17	F	2015	311	.0656919656641759	4	Depressive disorder NEC
+13-17	F	2015	F329	.0332396714629778	8	Major depressive disorder, single episode, unspecified
+13-17	F	2015	F332	.0724078305440622	3	Major depressv disorder, recurrent severe w/o psych features
+18-21	M	2015	2920	.0303548525010688	8	Drug withdrawal
+18-21	M	2015	29570	.0588926891834117	3	Schizoaffective dis NOS
+18-21	M	2015	29590	.0215369816160752	10	Schizophrenia NOS-unspec
+18-21	M	2015	29620	.0257054296707995	9	Depress psychosis-unspec
+18-21	M	2015	29633	.091866182129115	1	Recur depr psych-severe
+18-21	M	2015	29680	.0664279606669517	2	Bipolar disorder NOS
+18-21	M	2015	29690	.0502885848653271	5	Episodic mood disord NOS
+18-21	M	2015	2989	.0550448909790509	4	Psychosis NOS
+18-21	M	2015	311	.0494335185976913	6	Depressive disorder NEC
+18-21	M	2015	F332	.037248824283882	7	Major depressv disorder, recurrent severe w/o psych features
+18-21	F	2015	29570	.0302338530066815	7	Schizoaffective dis NOS
+18-21	F	2015	29620	.0334075723830735	6	Depress psychosis-unspec
+18-21	F	2015	29623	.0252227171492205	9	Depress psychosis-severe
+18-21	F	2015	29633	.152004454342984	1	Recur depr psych-severe
+18-21	F	2015	29680	.0689866369710468	2	Bipolar disorder NOS
+18-21	F	2015	29689	.0256124721603563	8	Bipolar disorder NEC
+18-21	F	2015	29690	.0414253897550111	5	Episodic mood disord NOS
+18-21	F	2015	311	.0506681514476615	4	Depressive disorder NEC
+18-21	F	2015	F329	.0244988864142539	10	Major depressive disorder, single episode, unspecified
+18-21	F	2015	F332	.0629732739420935	3	Major depressv disorder, recurrent severe w/o psych features
+22-29	M	2015	2920	.0580169971671388	3	Drug withdrawal
+22-29	M	2015	29530	.0228045325779037	10	Paranoid schizo-unspec
+22-29	M	2015	29570	.0844475920679887	1	Schizoaffective dis NOS
+22-29	M	2015	29590	.0258923512747875	9	Schizophrenia NOS-unspec
+22-29	M	2015	29633	.0730594900849858	2	Recur depr psych-severe
+22-29	M	2015	29680	.05671388101983	4	Bipolar disorder NOS
+22-29	M	2015	29690	.0418130311614731	7	Episodic mood disord NOS
+22-29	M	2015	2989	.0429745042492918	5	Psychosis NOS
+22-29	M	2015	311	.0422662889518414	6	Depressive disorder NEC
+22-29	M	2015	F332	.0281869688385269	8	Major depressv disorder, recurrent severe w/o psych features
+22-29	F	2015	2920	.0491529120919072	4	Drug withdrawal
+22-29	F	2015	29570	.0520250127244965	3	Schizoaffective dis NOS
+22-29	F	2015	29620	.0255944157638333	8	Depress psychosis-unspec
+22-29	F	2015	29633	.11437504544463	1	Recur depr psych-severe
+22-29	F	2015	29680	.0725659856031411	2	Bipolar disorder NOS
+22-29	F	2015	29689	.0253762815385734	9.5	Bipolar disorder NEC
+22-29	F	2015	29690	.0365374827310405	7	Episodic mood disord NOS
+22-29	F	2015	2989	.0253762815385734	9.5	Psychosis NOS
+22-29	F	2015	311	.0397367847015197	6	Depressive disorder NEC
+22-29	F	2015	F332	.0478804624445575	5	Major depressv disorder, recurrent severe w/o psych features
+30-39	M	2015	29181	.0341569183820971	7	Alcohol withdrawal
+30-39	M	2015	2920	.0494686404154509	4	Drug withdrawal
+30-39	M	2015	29530	.0240115640977595	10	Paranoid schizo-unspec
+30-39	M	2015	29570	.095189656557004	1	Schizoaffective dis NOS
+30-39	M	2015	29633	.0744974168161255	2	Recur depr psych-severe
+30-39	M	2015	29680	.0536177958615521	3	Bipolar disorder NOS
+30-39	M	2015	29690	.035067055705758	5	Episodic mood disord NOS
+30-39	M	2015	2989	.0299006879567417	9	Psychosis NOS
+30-39	M	2015	311	.0350402869609444	6	Depressive disorder NEC
+30-39	M	2015	F332	.0304360628530128	8	Major depressv disorder, recurrent severe w/o psych features
+30-39	F	2015	2920	.0422376572179463	5	Drug withdrawal
+30-39	F	2015	29570	.067736687316188	3	Schizoaffective dis NOS
+30-39	F	2015	29620	.0230586321256492	10	Depress psychosis-unspec
+30-39	F	2015	29633	.119172767661598	1	Recur depr psych-severe
+30-39	F	2015	29634	.0248107127213566	8	Rec depr psych-psychotic
+30-39	F	2015	29680	.0716162943495401	2	Bipolar disorder NOS
+30-39	F	2015	29689	.0246855641073775	9	Bipolar disorder NEC
+30-39	F	2015	29690	.0313497278017646	6	Episodic mood disord NOS
+30-39	F	2015	311	.0301608159689631	7	Depressive disorder NEC
+30-39	F	2015	F332	.0434578562042425	4	Major depressv disorder, recurrent severe w/o psych features
+40-55	M	2015	29181	.0589718421001982	3	Alcohol withdrawal
+40-55	M	2015	2920	.0350097195758031	7	Drug withdrawal
+40-55	M	2015	29570	.0896318109205689	2	Schizoaffective dis NOS
+40-55	M	2015	29620	.0235579421444656	10	Depress psychosis-unspec
+40-55	M	2015	29633	.0947514290663433	1	Recur depr psych-severe
+40-55	M	2015	29634	.0357218469118694	5	Rec depr psych-psychotic
+40-55	M	2015	29680	.051234674827261	4	Bipolar disorder NOS
+40-55	M	2015	29690	.0299478414843043	9	Episodic mood disord NOS
+40-55	M	2015	311	.0349134861520103	8	Depressive disorder NEC
+40-55	M	2015	F332	.0357026002271109	6	Major depressv disorder, recurrent severe w/o psych features
+40-55	F	2015	29181	.0303223419126717	6	Alcohol withdrawal
+40-55	F	2015	2920	.0265603157635063	7	Drug withdrawal
+40-55	F	2015	29570	.0785913987336568	2	Schizoaffective dis NOS
+40-55	F	2015	29620	.0233739001726832	9	Depress psychosis-unspec
+40-55	F	2015	29633	.133603322095222	1	Recur depr psych-severe
+40-55	F	2015	29634	.0367568456541403	5	Rec depr psych-psychotic
+40-55	F	2015	29680	.0625565331798372	3	Bipolar disorder NOS
+40-55	F	2015	29690	.0229421922539265	10	Episodic mood disord NOS
+40-55	F	2015	311	.0255529972864074	8	Depressive disorder NEC
+40-55	F	2015	F332	.0460899597072609	4	Major depressv disorder, recurrent severe w/o psych features
+55-65	M	2015	29181	.0727730246602919	2	Alcohol withdrawal
+55-65	M	2015	2920	.0364871665827881	7	Drug withdrawal
+55-65	M	2015	29530	.0241570206341218	9	Paranoid schizo-unspec
+55-65	M	2015	29570	.069350780070458	3	Schizoaffective dis NOS
+55-65	M	2015	29620	.0236034222445898	10	Depress psychosis-unspec
+55-65	M	2015	29633	.107247106190237	1	Recur depr psych-severe
+55-65	M	2015	29634	.038751887267237	6	Rec depr psych-psychotic
+55-65	M	2015	29680	.0389531957725214	5	Bipolar disorder NOS
+55-65	M	2015	311	.0284851534977353	8	Depressive disorder NEC
+55-65	M	2015	F332	.0420734776044288	4	Major depressv disorder, recurrent severe w/o psych features
+55-65	F	2015	29181	.0331417521620025	6	Alcohol withdrawal
+55-65	F	2015	2920	.0215931675350486	10	Drug withdrawal
+55-65	F	2015	29570	.0748240855132406	2	Schizoaffective dis NOS
+55-65	F	2015	29620	.0218617392705592	9	Depress psychosis-unspec
+55-65	F	2015	29633	.134500725143686	1	Recur depr psych-severe
+55-65	F	2015	29634	.0422731911693613	5	Rec depr psych-psychotic
+55-65	F	2015	29680	.0494709136810442	4	Bipolar disorder NOS
+55-65	F	2015	2989	.0258903153032175	7	Psychosis NOS
+55-65	F	2015	311	.0221303110060697	8	Depressive disorder NEC
+55-65	F	2015	F332	.0495783423752484	3	Major depressv disorder, recurrent severe w/o psych features
+66-77	M	2015	29181	.0563770794824399	2	Alcohol withdrawal
+66-77	M	2015	2920	.0245576973857935	9	Drug withdrawal
+66-77	M	2015	29421	.0492474254026934	3	Demen NOS w behav distrb
+66-77	M	2015	29570	.0368365460786903	7	Schizoaffective dis NOS
+66-77	M	2015	29633	.105360443622921	1	Recur depr psych-severe
+66-77	M	2015	29634	.0438341695273303	4	Rec depr psych-psychotic
+66-77	M	2015	29680	.0233694217058358	10	Bipolar disorder NOS
+66-77	M	2015	2989	.0389490361763929	6	Psychosis NOS
+66-77	M	2015	311	.0277264325323475	8	Depressive disorder NEC
+66-77	M	2015	F332	.0398732505941378	5	Major depressv disorder, recurrent severe w/o psych features
+66-77	F	2015	29421	.0396603500051776	6	Demen NOS w behav distrb
+66-77	F	2015	29570	.0473231852542197	4	Schizoaffective dis NOS
+66-77	F	2015	29620	.020606813710262	10	Depress psychosis-unspec
+66-77	F	2015	29623	.0217458838148493	9	Depress psychosis-severe
+66-77	F	2015	29633	.125815470643057	1	Recur depr psych-severe
+66-77	F	2015	29634	.0522936729833282	2	Rec depr psych-psychotic
+66-77	F	2015	29680	.0357253805529668	7	Bipolar disorder NOS
+66-77	F	2015	2989	.0439059749404577	5	Psychosis NOS
+66-77	F	2015	F332	.0478409443926685	3	Major depressv disorder, recurrent severe w/o psych features
+66-77	F	2015	F333	.0220565392979186	8	Major depressv disorder, recurrent, severe w psych symptoms
+78 and up	M	2015	29411	.0655172413793104	2	Dementia w behavior dist
+78 and up	M	2015	29421	.171724137931034	1	Demen NOS w behav distrb
+78 and up	M	2015	2948	.0272413793103448	8	Mental disor NEC oth dis
+78 and up	M	2015	29623	.03	7	Depress psychosis-severe
+78 and up	M	2015	29633	.0641379310344828	4	Recur depr psych-severe
+78 and up	M	2015	29634	.0379310344827586	6	Rec depr psych-psychotic
+78 and up	M	2015	2989	.0568965517241379	5	Psychosis NOS
+78 and up	M	2015	311	.0268965517241379	9	Depressive disorder NEC
+78 and up	M	2015	F0391	.0648275862068965	3	Unspecified dementia with behavioral disturbance
+78 and up	M	2015	F29	.0255172413793103	10	Unsp psychosis not due to a substance or known physiol cond
+78 and up	F	2015	29411	.0543187889581478	5	Dementia w behavior dist
+78 and up	F	2015	29421	.146705253784506	1	Demen NOS w behav distrb
+78 and up	F	2015	29623	.0215939447907391	10	Depress psychosis-severe
+78 and up	F	2015	29633	.085040071237756	2	Recur depr psych-severe
+78 and up	F	2015	29634	.0565449688334817	4	Rec depr psych-psychotic
+78 and up	F	2015	2989	.0730186999109528	3	Psychosis NOS
+78 and up	F	2015	F0391	.0540961709706144	6	Unspecified dementia with behavioral disturbance
+78 and up	F	2015	F29	.0276046304541407	9	Unsp psychosis not due to a substance or known physiol cond
+78 and up	F	2015	F332	.0296081923419412	7	Major depressv disorder, recurrent severe w/o psych features
+78 and up	F	2015	F333	.0291629563668744	8	Major depressv disorder, recurrent, severe w psych symptoms
+Birth to 6	M	2016	F319	.0583905789990186	5	Bipolar disorder, unspecified
+Birth to 6	M	2016	F329	.0304219823356232	8	Major depressive disorder, single episode, unspecified
+Birth to 6	M	2016	F348	.260058881256133	1	Other persistent mood [affective] disorders
+Birth to 6	M	2016	F3481	.142787046123651	2	Disruptive mood dysregulation disorder
+Birth to 6	M	2016	F39	.104514229636899	3	Unspecified mood [affective] disorder
+Birth to 6	M	2016	F4310	.0161923454367027	10	Post-traumatic stress disorder, unspecified
+Birth to 6	M	2016	F6381	.0289499509322866	9	Intermittent explosive disorder
+Birth to 6	M	2016	F902	.0902845927379784	4	Attention-deficit hyperactivity disorder, combined type
+Birth to 6	M	2016	F909	.0377821393523062	7	Attention-deficit hyperactivity disorder, unspecified type
+Birth to 6	M	2016	F913	.0412168792934249	6	Oppositional defiant disorder
+Birth to 6	F	2016	F319	.0546623794212219	5	Bipolar disorder, unspecified
+Birth to 6	F	2016	F329	.0530546623794212	6	Major depressive disorder, single episode, unspecified
+Birth to 6	F	2016	F348	.282958199356913	1	Other persistent mood [affective] disorders
+Birth to 6	F	2016	F3481	.0996784565916399	3	Disruptive mood dysregulation disorder
+Birth to 6	F	2016	F39	.117363344051447	2	Unspecified mood [affective] disorder
+Birth to 6	F	2016	F4310	.0289389067524116	10	Post-traumatic stress disorder, unspecified
+Birth to 6	F	2016	F6381	.0321543408360129	9	Intermittent explosive disorder
+Birth to 6	F	2016	F902	.0594855305466238	4	Attention-deficit hyperactivity disorder, combined type
+Birth to 6	F	2016	F909	.0401929260450161	7	Attention-deficit hyperactivity disorder, unspecified type
+Birth to 6	F	2016	F913	.0369774919614148	8	Oppositional defiant disorder
+7-9	M	2016	F319	.0699909102713933	4	Bipolar disorder, unspecified
+7-9	M	2016	F329	.0476561485521361	6	Major depressive disorder, single episode, unspecified
+7-9	M	2016	F332	.0161018049603948	10	Major depressv disorder, recurrent severe w/o psych features
+7-9	M	2016	F348	.268666406960135	1	Other persistent mood [affective] disorders
+7-9	M	2016	F3481	.132320477860018	2	Disruptive mood dysregulation disorder
+7-9	M	2016	F39	.0759641604986365	3	Unspecified mood [affective] disorder
+7-9	M	2016	F6381	.0262303596935463	9	Intermittent explosive disorder
+7-9	M	2016	F902	.0479158550837554	5	Attention-deficit hyperactivity disorder, combined type
+7-9	M	2016	F909	.0311647837943124	8	Attention-deficit hyperactivity disorder, unspecified type
+7-9	M	2016	F913	.0386962732112713	7	Oppositional defiant disorder
+7-9	F	2016	F319	.0719069439548819	4	Bipolar disorder, unspecified
+7-9	F	2016	F322	.0204441311244272	10	Major depressv disord, single epsd, sev w/o psych features
+7-9	F	2016	F329	.0680296087416285	5	Major depressive disorder, single episode, unspecified
+7-9	F	2016	F332	.0292562566090941	8	Major depressv disorder, recurrent severe w/o psych features
+7-9	F	2016	F348	.219950652097286	1	Other persistent mood [affective] disorders
+7-9	F	2016	F3481	.105040535777229	2	Disruptive mood dysregulation disorder
+7-9	F	2016	F39	.0754317941487487	3	Unspecified mood [affective] disorder
+7-9	F	2016	F4310	.0324286217835742	7	Post-traumatic stress disorder, unspecified
+7-9	F	2016	F902	.0363059569968276	6	Attention-deficit hyperactivity disorder, combined type
+7-9	F	2016	F913	.0289037715897074	9	Oppositional defiant disorder
+10-12	M	2016	F319	.0716876106941047	3	Bipolar disorder, unspecified
+10-12	M	2016	F329	.0675550307835034	4	Major depressive disorder, single episode, unspecified
+10-12	M	2016	F332	.0199881926288269	10	Major depressive disorder, recurrent severe without psychotic features
+10-12	M	2016	F332	.0363498355401872	6	Major depressv disorder, recurrent severe w/o psych features
+10-12	M	2016	F348	.228894324028	1	Other persistent mood [affective] disorders
+10-12	M	2016	F3481	.111832672682803	2	Disruptive mood dysregulation disorder
+10-12	M	2016	F39	.0669646622248461	5	Unspecified mood [affective] disorder
+10-12	M	2016	F902	.0327232858227208	7	Attention-deficit hyperactivity disorder, combined type
+10-12	M	2016	F909	.0218436366703213	9	Attention-deficit hyperactivity disorder, unspecified type
+10-12	M	2016	F913	.0288437210086869	8	Oppositional defiant disorder
+10-12	F	2016	F319	.0588012139605463	5	Bipolar disorder, unspecified
+10-12	F	2016	F322	.0548179059180577	6	Major depressv disord, single epsd, sev w/o psych features
+10-12	F	2016	F323	.0254172989377845	10	Major depressv disord, single epsd, severe w psych features
+10-12	F	2016	F329	.100910470409712	2	Major depressive disorder, single episode, unspecified
+10-12	F	2016	F332	.0444802731411229	7	Major depressive disorder, recurrent severe without psychotic features
+10-12	F	2016	F332	.100341426403642	3	Major depressv disorder, recurrent severe w/o psych features
+10-12	F	2016	F333	.039453717754173	9	Major depressv disorder, recurrent, severe w psych symptoms
+10-12	F	2016	F348	.132018209408194	1	Other persistent mood [affective] disorders
+10-12	F	2016	F3481	.0635432473444613	4	Disruptive mood dysregulation disorder
+10-12	F	2016	F39	.0440060698027314	8	Unspecified mood [affective] disorder
+13-17	M	2016	F319	.073134253950845	4	Bipolar disorder, unspecified
+13-17	M	2016	F322	.0381873473253901	8	Major depressv disord, single epsd, sev w/o psych features
+13-17	M	2016	F329	.0853482227429084	3	Major depressive disorder, single episode, unspecified
+13-17	M	2016	F331	.0220100702926367	10	Major depressive disorder, recurrent, moderate
+13-17	M	2016	F332	.0457400668029313	7	Major depressive disorder, recurrent severe without psychotic features
+13-17	M	2016	F332	.105264469814049	2	Major depressv disorder, recurrent severe w/o psych features
+13-17	M	2016	F333	.0261229373348622	9	Major depressv disorder, recurrent, severe w psych symptoms
+13-17	M	2016	F348	.126127922628247	1	Other persistent mood [affective] disorders
+13-17	M	2016	F3481	.0601226382172591	5	Disruptive mood dysregulation disorder
+13-17	M	2016	F39	.0482576399621118	6	Unspecified mood [affective] disorder
+13-17	F	2016	F319	.060675621180631	5	Bipolar disorder, unspecified
+13-17	F	2016	F322	.0556503396718057	6	Major depressv disord, single epsd, sev w/o psych features
+13-17	F	2016	F329	.100583180817074	2	Major depressive disorder, single episode, unspecified
+13-17	F	2016	F331	.0365573719638924	8	Major depressive disorder, recurrent, moderate
+13-17	F	2016	F332	.0815212333653876	3	Major depressive disorder, recurrent severe without psychotic features
+13-17	F	2016	F332	.182430126872848	1	Major depressv disorder, recurrent severe w/o psych features
+13-17	F	2016	F333	.0393802152805782	7	Major depressv disorder, recurrent, severe w psych symptoms
+13-17	F	2016	F348	.0658560039705928	4	Other persistent mood [affective] disorders
+13-17	F	2016	F3481	.0296398548252009	10	Disruptive mood dysregulation disorder
+13-17	F	2016	F39	.0338275894158886	9	Unspecified mood [affective] disorder
+18-21	M	2016	F1123	.0353012474117469	8	Opioid dependence with withdrawal
+18-21	M	2016	F200	.0378263724054341	7	Paranoid schizophrenia
+18-21	M	2016	F209	.0424726023938185	6	Schizophrenia, unspecified
+18-21	M	2016	F250	.0435836573910409	5	Schizoaffective disorder, bipolar type
+18-21	M	2016	F29	.0338366749154083	9	Unsp psychosis not due to a substance or known physiol cond
+18-21	M	2016	F319	.0582798848543003	3	Bipolar disorder, unspecified
+18-21	M	2016	F329	.0650977223372557	2	Major depressive disorder, single episode, unspecified
+18-21	M	2016	F332	.0494924498762689	4	Major depressive disorder, recurrent severe without psychotic features
+18-21	M	2016	F332	.112923589717691	1	Major depressv disorder, recurrent severe w/o psych features
+18-21	M	2016	F39	.032119589919701	10	Unspecified mood [affective] disorder
+18-21	F	2016	F1123	.0257789505734294	9	Opioid dependence with withdrawal
+18-21	F	2016	F250	.0246117933624277	10	Schizoaffective disorder, bipolar type
+18-21	F	2016	F3181	.0469400182685476	5	Bipolar II disorder
+18-21	F	2016	F319	.0601847153151324	4	Bipolar disorder, unspecified
+18-21	F	2016	F322	.0270475997158226	8	Major depressv disord, single epsd, sev w/o psych features
+18-21	F	2016	F329	.0734294123617172	3	Major depressive disorder, single episode, unspecified
+18-21	F	2016	F331	.032731147873744	6	Major depressive disorder, recurrent, moderate
+18-21	F	2016	F332	.0787577387597686	2	Major depressive disorder, recurrent severe without psychotic features
+18-21	F	2016	F332	.182431746676139	1	Major depressv disorder, recurrent severe w/o psych features
+18-21	F	2016	F333	.029026692377956	7	Major depressv disorder, recurrent, severe w psych symptoms
+22-29	M	2016	F1123	.0822721566015014	2	Opioid dependence with withdrawal
+22-29	M	2016	F200	.0583924773886085	4	Paranoid schizophrenia
+22-29	M	2016	F209	.0534730584949653	5	Schizophrenia, unspecified
+22-29	M	2016	F250	.0734069538035819	3	Schizoaffective disorder, bipolar type
+22-29	M	2016	F259	.0413282431012837	8	Schizoaffective disorder, unspecified
+22-29	M	2016	F29	.0272361577288683	10	Unsp psychosis not due to a substance or known physiol cond
+22-29	M	2016	F319	.0531399728407082	7	Bipolar disorder, unspecified
+22-29	M	2016	F329	.0534474365215609	6	Major depressive disorder, single episode, unspecified
+22-29	M	2016	F332	.0372031053831766	9	Major depressive disorder, recurrent severe without psychotic features
+22-29	M	2016	F332	.0871659535217402	1	Major depressv disorder, recurrent severe w/o psych features
+22-29	F	2016	F1123	.0690772420943494	2	Opioid dependence with withdrawal
+22-29	F	2016	F250	.0527799377916019	6	Schizoaffective disorder, bipolar type
+22-29	F	2016	F259	.0232633488854329	10.5	Schizoaffective disorder, unspecified
+22-29	F	2016	F314	.0264061689994816	8	Bipolar disord, crnt epsd depress, sev, w/o psych features
+22-29	F	2016	F3181	.0416666666666667	7	Bipolar II disorder
+22-29	F	2016	F319	.0641524105754277	3	Bipolar disorder, unspecified
+22-29	F	2016	F329	.0529095386210472	5	Major depressive disorder, single episode, unspecified
+22-29	F	2016	F331	.0232633488854329	10.5	Major depressive disorder, recurrent, moderate
+22-29	F	2016	F332	.0581907724209435	4	Major depressive disorder, recurrent severe without psychotic features
+22-29	F	2016	F332	.136080870917574	1	Major depressv disorder, recurrent severe w/o psych features
+22-29	F	2016	F333	.0234577501296008	9	Major depressv disorder, recurrent, severe w psych symptoms
+30-39	M	2016	F10239	.0477396360907897	7	Alcohol dependence with withdrawal, unspecified
+30-39	M	2016	F1123	.0712108422434815	3	Opioid dependence with withdrawal
+30-39	M	2016	F200	.0581738885762521	4	Paranoid schizophrenia
+30-39	M	2016	F209	.0494044269367848	5	Schizophrenia, unspecified
+30-39	M	2016	F250	.0870615269180266	1	Schizoaffective disorder, bipolar type
+30-39	M	2016	F259	.0470596510973551	9	Schizoaffective disorder, unspecified
+30-39	M	2016	F319	.0490292628024761	6	Bipolar disorder, unspecified
+30-39	M	2016	F329	.047129994372538	8	Major depressive disorder, single episode, unspecified
+30-39	M	2016	F332	.0359454136184581	10	Major depressive disorder, recurrent severe without psychotic features
+30-39	M	2016	F332	.0865925717501407	2	Major depressv disorder, recurrent severe w/o psych features
+30-39	F	2016	F10239	.0299197761726668	9	Alcohol dependence with withdrawal, unspecified
+30-39	F	2016	F1123	.0608673309161504	4	Opioid dependence with withdrawal
+30-39	F	2016	F250	.06743369400748	2	Schizoaffective disorder, bipolar type
+30-39	F	2016	F259	.030804807719759	8	Schizoaffective disorder, unspecified
+30-39	F	2016	F314	.0281782624832272	10	Bipolar disord, crnt epsd depress, sev, w/o psych features
+30-39	F	2016	F3181	.035001570217261	7	Bipolar II disorder
+30-39	F	2016	F319	.0636651725811517	3	Bipolar disorder, unspecified
+30-39	F	2016	F329	.04493676306849	6	Major depressive disorder, single episode, unspecified
+30-39	F	2016	F332	.0538156279441574	5	Major depressive disorder, recurrent severe without psychotic features
+30-39	F	2016	F332	.130185285636794	1	Major depressv disorder, recurrent severe w/o psych features
+40-55	M	2016	F10239	.0768519012793822	3	Alcohol dependence with withdrawal, unspecified
+40-55	M	2016	F1123	.0498941262300041	4	Opioid dependence with withdrawal
+40-55	M	2016	F200	.0482037046922543	5	Paranoid schizophrenia
+40-55	M	2016	F209	.0398761543799712	10	Schizophrenia, unspecified
+40-55	M	2016	F250	.0790583462339187	2	Schizoaffective disorder, bipolar type
+40-55	M	2016	F259	.0406768803715369	8	Schizoaffective disorder, unspecified
+40-55	M	2016	F319	.0463353440452677	6.5	Bipolar disorder, unspecified
+40-55	M	2016	F329	.0463353440452677	6.5	Major depressive disorder, single episode, unspecified
+40-55	M	2016	F332	.0399651239345896	9	Major depressive disorder, recurrent severe without psychotic features
+40-55	M	2016	F332	.10786668801936	1	Major depressv disorder, recurrent severe w/o psych features
+40-55	F	2016	F10239	.0420372680806536	5	Alcohol dependence with withdrawal, unspecified
+40-55	F	2016	F1123	.0347325632873184	9	Opioid dependence with withdrawal
+40-55	F	2016	F250	.0728659395500463	2	Schizoaffective disorder, bipolar type
+40-55	F	2016	F259	.0351953958224333	8	Schizoaffective disorder, unspecified
+40-55	F	2016	F3181	.0296212822473538	10	Bipolar II disorder
+40-55	F	2016	F319	.0527226626956977	4	Bipolar disorder, unspecified
+40-55	F	2016	F329	.0393005191773655	7	Major depressive disorder, single episode, unspecified
+40-55	F	2016	F332	.0536885740733288	3	Major depressive disorder, recurrent severe without psychotic features
+40-55	F	2016	F332	.145208677103876	1	Major depressv disorder, recurrent severe w/o psych features
+40-55	F	2016	F333	.0398035980198817	6	Major depressv disorder, recurrent, severe w psych symptoms
+55-65	M	2016	F10239	.0895226955778488	2	Alcohol dependence with withdrawal, unspecified
+55-65	M	2016	F1123	.0539385487426335	5	Opioid dependence with withdrawal
+55-65	M	2016	F200	.0544783840928517	4	Paranoid schizophrenia
+55-65	M	2016	F209	.0451212380224032	7	Schizophrenia, unspecified
+55-65	M	2016	F250	.0619461064375365	3	Schizoaffective disorder, bipolar type
+55-65	M	2016	F259	.036258941022988	10	Schizoaffective disorder, unspecified
+55-65	M	2016	F329	.0444464438346304	8	Major depressive disorder, single episode, unspecified
+55-65	M	2016	F332	.0473255657024607	6	Major depressive disorder, recurrent severe without psychotic features
+55-65	M	2016	F332	.113185478429079	1	Major depressv disorder, recurrent severe w/o psych features
+55-65	M	2016	F333	.0428719240631607	9	Major depressv disorder, recurrent, severe w psych symptoms
+55-65	F	2016	F10239	.0444069980671061	5	Alcohol dependence with withdrawal, unspecified
+55-65	F	2016	F200	.0410368241066561	7	Paranoid schizophrenia
+55-65	F	2016	F209	.0314714774247906	10	Schizophrenia, unspecified
+55-65	F	2016	F250	.0697328641522526	2	Schizoaffective disorder, bipolar type
+55-65	F	2016	F259	.0381622639639193	8	Schizoaffective disorder, unspecified
+55-65	F	2016	F319	.0426723497051098	6	Bipolar disorder, unspecified
+55-65	F	2016	F329	.0356841948753531	9	Major depressive disorder, single episode, unspecified
+55-65	F	2016	F332	.0558556772562819	3	Major depressive disorder, recurrent severe without psychotic features
+55-65	F	2016	F332	.148684145313971	1	Major depressv disorder, recurrent severe w/o psych features
+55-65	F	2016	F333	.0458442781384745	4	Major depressv disorder, recurrent, severe w psych symptoms
+66-77	M	2016	F0391	.072097711371991	3	Unspecified dementia with behavioral disturbance
+66-77	M	2016	F10239	.0749436736629906	2	Alcohol dependence with withdrawal, unspecified
+66-77	M	2016	F1123	.031898494011621	9	Opioid dependence with withdrawal
+66-77	M	2016	F200	.0390133997391201	7	Paranoid schizophrenia
+66-77	M	2016	F250	.0373532550693703	8	Schizoaffective disorder, bipolar type
+66-77	M	2016	F29	.0303569311039962	10	Unsp psychosis not due to a substance or known physiol cond
+66-77	M	2016	F329	.0444681607968694	6	Major depressive disorder, single episode, unspecified
+66-77	M	2016	F332	.048381358946994	4	Major depressive disorder, recurrent severe without psychotic features
+66-77	M	2016	F332	.108265148820111	1	Major depressv disorder, recurrent severe w/o psych features
+66-77	M	2016	F333	.0462468872287442	5	Major depressv disorder, recurrent, severe w psych symptoms
+66-77	F	2016	F0391	.0534136156161989	4	Unspecified dementia with behavioral disturbance
+66-77	F	2016	F200	.0393318442264737	6	Paranoid schizophrenia
+66-77	F	2016	F209	.0276779644556667	10	Schizophrenia, unspecified
+66-77	F	2016	F250	.0437991648052831	5	Schizoaffective disorder, bipolar type
+66-77	F	2016	F29	.0377779935903661	8	Unsp psychosis not due to a substance or known physiol cond
+66-77	F	2016	F319	.0295231620860445	9	Bipolar disorder, unspecified
+66-77	F	2016	F329	.0385549189084199	7	Major depressive disorder, single episode, unspecified
+66-77	F	2016	F332	.0549674662523065	3	Major depressive disorder, recurrent severe without psychotic features
+66-77	F	2016	F332	.140623482567738	1	Major depressv disorder, recurrent severe w/o psych features
+66-77	F	2016	F333	.0616684471205205	2	Major depressv disorder, recurrent, severe w psych symptoms
+78 and up	M	2016	F0151	.069951109439639	3	Vascular dementia with behavioral disturbance
+78 and up	M	2016	F0390	.0323429860849944	7	Unspecified dementia without behavioral disturbance
+78 and up	M	2016	F0391	.256487401278676	1	Unspecified dementia with behavioral disturbance
+78 and up	M	2016	F29	.0473862354268522	5.5	Unsp psychosis not due to a substance or known physiol cond
+78 and up	M	2016	F322	.0263256863482512	9	Major depressv disord, single epsd, sev w/o psych features
+78 and up	M	2016	F329	.0481383978939451	4	Major depressive disorder, single episode, unspecified
+78 and up	M	2016	F332	.0319669048514479	8	Major depressive disorder, recurrent severe without psychotic features
+78 and up	M	2016	F332	.0774727341105679	2	Major depressv disorder, recurrent severe w/o psych features
+78 and up	M	2016	F333	.0473862354268522	5.5	Major depressv disorder, recurrent, severe w psych symptoms
+78 and up	M	2016	F339	.0251974426476119	10	Major depressive disorder, recurrent, unspecified
+78 and up	F	2016	F0151	.0361244019138756	7	Vascular dementia with behavioral disturbance
+78 and up	F	2016	F0390	.0272727272727273	9	Unspecified dementia without behavioral disturbance
+78 and up	F	2016	F0391	.227751196172249	1	Unspecified dementia with behavioral disturbance
+78 and up	F	2016	F29	.0502392344497608	4	Unsp psychosis not due to a substance or known physiol cond
+78 and up	F	2016	F329	.0380382775119617	6	Major depressive disorder, single episode, unspecified
+78 and up	F	2016	F331	.0215311004784689	10	Major depressive disorder, recurrent, moderate
+78 and up	F	2016	F332	.0440191387559809	5	Major depressive disorder, recurrent severe without psychotic features
+78 and up	F	2016	F332	.100239234449761	2	Major depressv disorder, recurrent severe w/o psych features
+78 and up	F	2016	F333	.0325358851674641	8	Major depressive disorder, recurrent, severe with psychotic symptoms
+78 and up	F	2016	F333	.0732057416267943	3	Major depressv disorder, recurrent, severe w psych symptoms
+Birth to 6	M	2017	F319	.0250752256770311	7	Bipolar disorder, unspecified
+Birth to 6	M	2017	F3481	.511534603811434	1	Disruptive mood dysregulation disorder
+Birth to 6	M	2017	F39	.0456369107321966	4	Unspecified mood [affective] disorder
+Birth to 6	M	2017	F4310	.0195586760280843	8	Post-traumatic stress disorder, unspecified
+Birth to 6	M	2017	F6381	.0275827482447342	6	Intermittent explosive disorder
+Birth to 6	M	2017	F639	.018555667001003	9	Impulse disorder, unspecified
+Birth to 6	M	2017	F902	.0962888665997994	2	Attention-deficit hyperactivity disorder, combined type
+Birth to 6	M	2017	F909	.0386158475426279	5	Attention-deficit hyperactivity disorder, unspecified type
+Birth to 6	M	2017	F913	.0506519558676028	3	Oppositional defiant disorder
+Birth to 6	M	2017	F919	.0150451354062187	10	Conduct disorder, unspecified
+Birth to 6	F	2017	F319	.0418760469011725	4.5	Bipolar disorder, unspecified
+Birth to 6	F	2017	F322	.0201005025125628	8.5	Major depressive disorder, single episode, severe without psychotic features
+Birth to 6	F	2017	F329	.0201005025125628	8.5	Major depressive disorder, single episode, unspecified
+Birth to 6	F	2017	F3481	.465661641541039	1	Disruptive mood dysregulation disorder
+Birth to 6	F	2017	F39	.0603015075376884	3	Unspecified mood [affective] disorder
+Birth to 6	F	2017	F4310	.033500837520938	6	Post-traumatic stress disorder, unspecified
+Birth to 6	F	2017	F902	.0804020100502513	2	Attention-deficit hyperactivity disorder, combined type
+Birth to 6	F	2017	F909	.0184254606365159	10	Attention-deficit hyperactivity disorder, unspecified type
+Birth to 6	F	2017	F913	.0418760469011725	4.5	Oppositional defiant disorder
+Birth to 6	F	2017	F919	.0217755443886097	7	Conduct disorder, unspecified
+7-9	M	2017	F319	.0396896069202392	5	Bipolar disorder, unspecified
+7-9	M	2017	F322	.024678794046559	8	Major depressive disorder, single episode, severe without psychotic features
+7-9	M	2017	F329	.0268413687825976	7	Major depressive disorder, single episode, unspecified
+7-9	M	2017	F332	.0320569902048085	6	Major depressive disorder, recurrent severe without psychotic features
+7-9	M	2017	F3481	.491031675359369	1	Disruptive mood dysregulation disorder
+7-9	M	2017	F39	.043378704999364	3	Unspecified mood [affective] disorder
+7-9	M	2017	F6381	.0214985370817962	10	Intermittent explosive disorder
+7-9	M	2017	F902	.0520290039435186	2	Attention-deficit hyperactivity disorder, combined type
+7-9	M	2017	F909	.0231522707034728	9	Attention-deficit hyperactivity disorder, unspecified type
+7-9	M	2017	F913	.0423610227706399	4	Oppositional defiant disorder
+7-9	F	2017	F319	.0432707604199809	4	Bipolar disorder, unspecified
+7-9	F	2017	F322	.0381800827235126	5	Major depressive disorder, single episode, severe without psychotic features
+7-9	F	2017	F329	.0372255806554248	7	Major depressive disorder, single episode, unspecified
+7-9	F	2017	F332	.0489977728285078	2	Major depressive disorder, recurrent severe without psychotic features
+7-9	F	2017	F333	.0244988864142539	10	Major depressive disorder, recurrent, severe with psychotic symptoms
+7-9	F	2017	F3481	.428571428571429	1	Disruptive mood dysregulation disorder
+7-9	F	2017	F39	.04804327076042	3	Unspecified mood [affective] disorder
+7-9	F	2017	F4310	.0273623926185173	9	Post-traumatic stress disorder, unspecified
+7-9	F	2017	F902	.037543748011454	6	Attention-deficit hyperactivity disorder, combined type
+7-9	F	2017	F913	.0365892459433662	8	Oppositional defiant disorder
+10-12	M	2017	F3163	.0158546017014695	10.5	Bipolar disorder, current episode mixed, severe, without psychotic features
+10-12	M	2017	F319	.0419180201082753	4	Bipolar disorder, unspecified
+10-12	M	2017	F322	.0383604021655066	6	Major depressive disorder, single episode, severe without psychotic features
+10-12	M	2017	F329	.0415313225058005	5	Major depressive disorder, single episode, unspecified
+10-12	M	2017	F332	.071461716937355	2	Major depressive disorder, recurrent severe without psychotic features
+10-12	M	2017	F333	.0252900232018561	9	Major depressive disorder, recurrent, severe with psychotic symptoms
+10-12	M	2017	F3481	.411523588553751	1	Disruptive mood dysregulation disorder
+10-12	M	2017	F39	.0463263727764888	3	Unspecified mood [affective] disorder
+10-12	M	2017	F6381	.0158546017014695	10.5	Intermittent explosive disorder
+10-12	M	2017	F902	.0290023201856148	8	Attention-deficit hyperactivity disorder, combined type
+10-12	M	2017	F913	.0308584686774942	7	Oppositional defiant disorder
+10-12	F	2017	F319	.0325017706775793	8	Bipolar disorder, unspecified
+10-12	F	2017	F321	.0204611631384276	10	Major depressive disorder, single episode, moderate
+10-12	F	2017	F322	.0829464074919336	3	Major depressive disorder, single episode, severe without psychotic features
+10-12	F	2017	F323	.0337609191784056	6	Major depressive disorder, single episode, severe with psychotic features
+10-12	F	2017	F329	.069567954670654	4	Major depressive disorder, single episode, unspecified
+10-12	F	2017	F331	.028803021956402	9	Major depressive disorder, recurrent, moderate
+10-12	F	2017	F332	.176831667584796	2	Major depressive disorder, recurrent severe without psychotic features
+10-12	F	2017	F333	.0690957739828441	5	Major depressive disorder, recurrent, severe with psychotic symptoms
+10-12	F	2017	F3481	.22822066577477	1	Disruptive mood dysregulation disorder
+10-12	F	2017	F39	.033446132053199	7	Unspecified mood [affective] disorder
+13-17	M	2017	F29	.0190938128475098	9	Unspecified psychosis not due to a substance or known physiological condition
+13-17	M	2017	F3163	.0184076659174258	10	Bipolar disorder, current episode mixed, severe, without psychotic features
+13-17	M	2017	F319	.0504909499585946	5	Bipolar disorder, unspecified
+13-17	M	2017	F322	.0675499822548208	3	Major depressive disorder, single episode, severe without psychotic features
+13-17	M	2017	F329	.055719862770614	4	Major depressive disorder, single episode, unspecified
+13-17	M	2017	F331	.0281556843724122	8	Major depressive disorder, recurrent, moderate
+13-17	M	2017	F332	.187696675736425	2	Major depressive disorder, recurrent severe without psychotic features
+13-17	M	2017	F333	.0376907606766828	6	Major depressive disorder, recurrent, severe with psychotic symptoms
+13-17	M	2017	F3481	.207926180054419	1	Disruptive mood dysregulation disorder
+13-17	M	2017	F39	.0353957174967467	7	Unspecified mood [affective] disorder
+13-17	F	2017	F314	.019384296478893	10	Bipolar disorder, current episode depressed, severe, without psychotic features
+13-17	F	2017	F319	.0416678338328805	7	Bipolar disorder, unspecified
+13-17	F	2017	F321	.0206868539735007	9	Major depressive disorder, single episode, moderate
+13-17	F	2017	F322	.0843581052690552	3	Major depressive disorder, single episode, severe without psychotic features
+13-17	F	2017	F329	.0643295330401412	4	Major depressive disorder, single episode, unspecified
+13-17	F	2017	F331	.0465419199417351	6	Major depressive disorder, recurrent, moderate
+13-17	F	2017	F332	.305008543656685	1	Major depressive disorder, recurrent severe without psychotic features
+13-17	F	2017	F333	.058965237121488	5	Major depressive disorder, recurrent, severe with psychotic symptoms
+13-17	F	2017	F3481	.107678086220903	2	Disruptive mood dysregulation disorder
+13-17	F	2017	F39	.0274937673324183	8	Unspecified mood [affective] disorder
+18-21	M	2017	F200	.039327109547648	5	Paranoid schizophrenia
+18-21	M	2017	F209	.032517025210842	10	Schizophrenia, unspecified
+18-21	M	2017	F250	.0505118838226672	2	Schizoaffective disorder, bipolar type
+18-21	M	2017	F29	.0433410003156993	3	Unspecified psychosis not due to a substance or known physiological condition
+18-21	M	2017	F312	.0326072250033825	9	Bipolar disorder, current episode manic severe with psychotic features
+18-21	M	2017	F319	.0382898119334326	6	Bipolar disorder, unspecified
+18-21	M	2017	F322	.0375231136968385	7	Major depressive disorder, single episode, severe without psychotic features
+18-21	M	2017	F329	.0414468046723493	4	Major depressive disorder, single episode, unspecified
+18-21	M	2017	F332	.19095296080819	1	Major depressive disorder, recurrent severe without psychotic features
+18-21	M	2017	F333	.0351779190907861	8	Major depressive disorder, recurrent, severe with psychotic symptoms
+18-21	F	2017	F250	.0250734985300294	9	Schizoaffective disorder, bipolar type
+18-21	F	2017	F314	.0414111717765645	6	Bipolar disorder, current episode depressed, severe, without psychotic features
+18-21	F	2017	F315	.021377572448551	10	Bipolar disorder, current episode depressed, severe, with psychotic features
+18-21	F	2017	F3181	.049895002099958	2	Bipolar II disorder
+18-21	F	2017	F319	.0419151616967661	5	Bipolar disorder, unspecified
+18-21	F	2017	F322	.0419571608567829	4	Major depressive disorder, single episode, severe without psychotic features
+18-21	F	2017	F329	.0434691306173877	3	Major depressive disorder, single episode, unspecified
+18-21	F	2017	F331	.0344813103737925	8	Major depressive disorder, recurrent, moderate
+18-21	F	2017	F332	.30209995800084	1	Major depressive disorder, recurrent severe without psychotic features
+18-21	F	2017	F333	.0395212095758085	7	Major depressive disorder, recurrent, severe with psychotic symptoms
+22-29	M	2017	F1123	.0633184339974394	3	Opioid dependence with withdrawal
+22-29	M	2017	F200	.0520653174906224	4	Paranoid schizophrenia
+22-29	M	2017	F209	.0509197906605871	5	Schizophrenia, unspecified
+22-29	M	2017	F250	.0838031490757171	2	Schizoaffective disorder, bipolar type
+22-29	M	2017	F259	.0334898137957368	7	Schizoaffective disorder, unspecified
+22-29	M	2017	F29	.03272612924238	8	Unspecified psychosis not due to a substance or known physiological condition
+22-29	M	2017	F312	.0317602928954875	9	Bipolar disorder, current episode manic severe with psychotic features
+22-29	M	2017	F319	.0351294894544148	6	Bipolar disorder, unspecified
+22-29	M	2017	F329	.0305249208238809	10	Major depressive disorder, single episode, unspecified
+22-29	M	2017	F332	.150513240942477	1	Major depressive disorder, recurrent severe without psychotic features
+22-29	F	2017	F1123	.0542177040802155	3	Opioid dependence with withdrawal
+22-29	F	2017	F250	.0563564147432158	2	Schizoaffective disorder, bipolar type
+22-29	F	2017	F312	.0307752131766797	9	Bipolar disorder, current episode manic severe with psychotic features
+22-29	F	2017	F314	.04388523178624	4	Bipolar disorder, current episode depressed, severe, without psychotic features
+22-29	F	2017	F3181	.0431352942810321	6	Bipolar II disorder
+22-29	F	2017	F319	.0431908452073438	5	Bipolar disorder, unspecified
+22-29	F	2017	F329	.0322195372607838	8	Major depressive disorder, single episode, unspecified
+22-29	F	2017	F331	.0297752965030692	10	Major depressive disorder, recurrent, moderate
+22-29	F	2017	F332	.227092186762214	1	Major depressive disorder, recurrent severe without psychotic features
+22-29	F	2017	F333	.0350248590395245	7	Major depressive disorder, recurrent, severe with psychotic symptoms
+30-39	M	2017	F10239	.045227240776816	5	Alcohol dependence with withdrawal, unspecified
+30-39	M	2017	F1123	.0655513827244793	3	Opioid dependence with withdrawal
+30-39	M	2017	F200	.0549474825778724	4	Paranoid schizophrenia
+30-39	M	2017	F209	.0431988432108931	6	Schizophrenia, unspecified
+30-39	M	2017	F250	.0932460385998032	2	Schizoaffective disorder, bipolar type
+30-39	M	2017	F251	.0320326150262085	10	Schizoaffective disorder, depressive type
+30-39	M	2017	F259	.0356676641294961	7	Schizoaffective disorder, unspecified
+30-39	M	2017	F319	.0346635069186432	8	Bipolar disorder, unspecified
+30-39	M	2017	F332	.138794609684092	1	Major depressive disorder, recurrent severe without psychotic features
+30-39	M	2017	F333	.0342216777458679	9	Major depressive disorder, recurrent, severe with psychotic symptoms
+30-39	F	2017	F10239	.0292127617542473	10	Alcohol dependence with withdrawal, unspecified
+30-39	F	2017	F1123	.0546226787830897	3	Opioid dependence with withdrawal
+30-39	F	2017	F250	.0704267088107467	2	Schizoaffective disorder, bipolar type
+30-39	F	2017	F312	.0332872382457527	8	Bipolar disorder, current episode manic severe with psychotic features
+30-39	F	2017	F314	.0521532990912683	4	Bipolar disorder, current episode depressed, severe, without psychotic features
+30-39	F	2017	F315	.0309660213354405	9	Bipolar disorder, current episode depressed, severe, with psychotic features
+30-39	F	2017	F3181	.0356825365468194	6.5	Bipolar II disorder
+30-39	F	2017	F319	.0426955748715923	5	Bipolar disorder, unspecified
+30-39	F	2017	F332	.204711576451995	1	Major depressive disorder, recurrent severe without psychotic features
+30-39	F	2017	F333	.0356825365468194	6.5	Major depressive disorder, recurrent, severe with psychotic symptoms
+40-55	M	2017	F10239	.0732894405241935	3	Alcohol dependence with withdrawal, unspecified
+40-55	M	2017	F1123	.0467647429435484	5	Opioid dependence with withdrawal
+40-55	M	2017	F200	.0464339717741935	6	Paranoid schizophrenia
+40-55	M	2017	F209	.0355657762096774	8	Schizophrenia, unspecified
+40-55	M	2017	F250	.0832440776209677	2	Schizoaffective disorder, bipolar type
+40-55	M	2017	F251	.0362430695564516	7	Schizoaffective disorder, depressive type
+40-55	M	2017	F259	.0329826108870968	9	Schizoaffective disorder, unspecified
+40-55	M	2017	F319	.0312972530241935	10	Bipolar disorder, unspecified
+40-55	M	2017	F332	.161321824596774	1	Major depressive disorder, recurrent severe without psychotic features
+40-55	M	2017	F333	.0489383820564516	4	Major depressive disorder, recurrent, severe with psychotic symptoms
+40-55	F	2017	F10239	.0419462780449451	5	Alcohol dependence with withdrawal, unspecified
+40-55	F	2017	F1123	.0307557278428935	9	Opioid dependence with withdrawal
+40-55	F	2017	F250	.0779132915211468	2	Schizoaffective disorder, bipolar type
+40-55	F	2017	F312	.0350893232642762	7	Bipolar disorder, current episode manic severe with psychotic features
+40-55	F	2017	F314	.0473587010184863	4	Bipolar disorder, current episode depressed, severe, without psychotic features
+40-55	F	2017	F315	.0326391047559838	8	Bipolar disorder, current episode depressed, severe, with psychotic features
+40-55	F	2017	F3181	.0304631644389182	10	Bipolar II disorder
+40-55	F	2017	F319	.0382709502825065	6	Bipolar disorder, unspecified
+40-55	F	2017	F332	.219020278300938	1	Major depressive disorder, recurrent severe without psychotic features
+40-55	F	2017	F333	.0505768984622136	3	Major depressive disorder, recurrent, severe with psychotic symptoms
+55-65	M	2017	F1020	.0317111935215318	8	Alcohol dependence, uncomplicated
+55-65	M	2017	F10239	.0859002497540301	2	Alcohol dependence with withdrawal, unspecified
+55-65	M	2017	F1123	.0473775826837206	6	Opioid dependence with withdrawal
+55-65	M	2017	F200	.0504427457806706	5	Paranoid schizophrenia
+55-65	M	2017	F209	.0367819571633997	7	Schizophrenia, unspecified
+55-65	M	2017	F250	.0662226595020056	3	Schizoaffective disorder, bipolar type
+55-65	M	2017	F251	.030500264890638	9	Schizoaffective disorder, depressive type
+55-65	M	2017	F329	.026905320517672	10	Major depressive disorder, single episode, unspecified
+55-65	M	2017	F332	.175887383637327	1	Major depressive disorder, recurrent severe without psychotic features
+55-65	M	2017	F333	.057935366684326	4	Major depressive disorder, recurrent, severe with psychotic symptoms
+55-65	F	2017	F10239	.0411800328748162	4	Alcohol dependence with withdrawal, unspecified
+55-65	F	2017	F200	.0373302188770655	7	Paranoid schizophrenia
+55-65	F	2017	F250	.0792023531447357	2	Schizoaffective disorder, bipolar type
+55-65	F	2017	F259	.0281166190846959	10	Schizoaffective disorder, unspecified
+55-65	F	2017	F312	.0409204948524959	5	Bipolar disorder, current episode manic severe with psychotic features
+55-65	F	2017	F314	.037849294921706	6	Bipolar disorder, current episode depressed, severe, without psychotic features
+55-65	F	2017	F315	.0306254866337918	9	Bipolar disorder, current episode depressed, severe, with psychotic features
+55-65	F	2017	F319	.033047841508781	8	Bipolar disorder, unspecified
+55-65	F	2017	F332	.216800761311532	1	Major depressive disorder, recurrent severe without psychotic features
+55-65	F	2017	F333	.0589151310667013	3	Major depressive disorder, recurrent, severe with psychotic symptoms
+66-77	M	2017	F0391	.0616599979480866	4	Unspecified dementia with behavioral disturbance
+66-77	M	2017	F1020	.0287267877295578	10	Alcohol dependence, uncomplicated
+66-77	M	2017	F10239	.0802298143018365	2	Alcohol dependence with withdrawal, unspecified
+66-77	M	2017	F1123	.0320098491843644	8	Opioid dependence with withdrawal
+66-77	M	2017	F200	.0418590335487842	5	Paranoid schizophrenia
+66-77	M	2017	F250	.041243459526008	6	Schizoaffective disorder, bipolar type
+66-77	M	2017	F312	.0329332102185288	7	Bipolar disorder, current episode manic severe with psychotic features
+66-77	M	2017	F329	.0297527444341849	9	Major depressive disorder, single episode, unspecified
+66-77	M	2017	F332	.174310044116138	1	Major depressive disorder, recurrent severe without psychotic features
+66-77	M	2017	F333	.0622755719708628	3	Major depressive disorder, recurrent, severe with psychotic symptoms
+66-77	F	2017	F0391	.0557745030843043	3	Unspecified dementia with behavioral disturbance
+66-77	F	2017	F10239	.0267306374228924	9	Alcohol dependence with withdrawal, unspecified
+66-77	F	2017	F200	.0361549006168609	6	Paranoid schizophrenia
+66-77	F	2017	F250	.0525188485263879	4	Schizoaffective disorder, bipolar type
+66-77	F	2017	F29	.03315627141878	7	Unspecified psychosis not due to a substance or known physiological condition
+66-77	F	2017	F312	.043865661411926	5	Bipolar disorder, current episode manic severe with psychotic features
+66-77	F	2017	F319	.0259595613433859	10	Bipolar disorder, unspecified
+66-77	F	2017	F331	.0299006168608636	8	Major depressive disorder, recurrent, moderate
+66-77	F	2017	F332	.210503769705278	1	Major depressive disorder, recurrent severe without psychotic features
+66-77	F	2017	F333	.0885023989033585	2	Major depressive disorder, recurrent, severe with psychotic symptoms
+78 and up	M	2017	F0151	.105662764947801	3	Vascular dementia with behavioral disturbance
+78 and up	M	2017	F0281	.0211958241062955	8	Dementia in other diseases classified elsewhere with behavioral disturbance
+78 and up	M	2017	F0391	.276178424549193	1	Unspecified dementia with behavioral disturbance
+78 and up	M	2017	F29	.0404935147105346	6	Unspecified psychosis not due to a substance or known physiological condition
+78 and up	M	2017	F312	.0189813350205631	9	Bipolar disorder, current episode manic severe with psychotic features
+78 and up	M	2017	F322	.0275229357798165	7	Major depressive disorder, single episode, severe without psychotic features
+78 and up	M	2017	F329	.0414425814615628	5	Major depressive disorder, single episode, unspecified
+78 and up	M	2017	F331	.018348623853211	10	Major depressive disorder, recurrent, moderate
+78 and up	M	2017	F332	.117367921543815	2	Major depressive disorder, recurrent severe without psychotic features
+78 and up	M	2017	F333	.0787725403353369	4	Major depressive disorder, recurrent, severe with psychotic symptoms
+78 and up	F	2017	F0151	.0731757032205463	4	Vascular dementia with behavioral disturbance
+78 and up	F	2017	F0390	.0207908683245006	8	Unspecified dementia without behavioral disturbance
+78 and up	F	2017	F0391	.245413779046066	1	Unspecified dementia with behavioral disturbance
+78 and up	F	2017	F29	.047289033836119	5	Unspecified psychosis not due to a substance or known physiological condition
+78 and up	F	2017	F312	.0191602119853241	10.5	Bipolar disorder, current episode manic severe with psychotic features
+78 and up	F	2017	F322	.0195678760701182	9	Major depressive disorder, single episode, severe without psychotic features
+78 and up	F	2017	F323	.0191602119853241	10.5	Major depressive disorder, single episode, severe with psychotic features
+78 and up	F	2017	F329	.0334284549531186	6	Major depressive disorder, single episode, unspecified
+78 and up	F	2017	F331	.0222176926212801	7	Major depressive disorder, recurrent, moderate
+78 and up	F	2017	F332	.148185894822666	2	Major depressive disorder, recurrent severe without psychotic features
+78 and up	F	2017	F333	.104973501834488	3	Major depressive disorder, recurrent, severe with psychotic symptoms
+Birth to 6	M	2018	F329	.0214646464646465	7	Major depressive disorder, single episode, unspecified
+Birth to 6	M	2018	F3481	.504419191919192	1	Disruptive mood dysregulation disorder
+Birth to 6	M	2018	F39	.0643939393939394	3	Unspecified mood [affective] disorder
+Birth to 6	M	2018	F4310	.0233585858585859	6	Post-traumatic stress disorder, unspecified
+Birth to 6	M	2018	F4325	.0176767676767677	10	Adjustment disorder with mixed disturbance of emotions and conduct
+Birth to 6	M	2018	F6381	.0195707070707071	9	Intermittent explosive disorder
+Birth to 6	M	2018	F639	.0202020202020202	8	Impulse disorder, unspecified
+Birth to 6	M	2018	F902	.0997474747474748	2	Attention-deficit hyperactivity disorder, combined type
+Birth to 6	M	2018	F909	.0441919191919192	5	Attention-deficit hyperactivity disorder, unspecified type
+Birth to 6	M	2018	F913	.0460858585858586	4	Oppositional defiant disorder
+Birth to 6	F	2018	F329	.0204081632653061	9.5	Major depressive disorder, single episode, unspecified
+Birth to 6	F	2018	F332	.0244897959183673	8	Major depressive disorder, recurrent severe without psychotic features
+Birth to 6	F	2018	F3481	.453061224489796	1	Disruptive mood dysregulation disorder
+Birth to 6	F	2018	F39	.073469387755102	3	Unspecified mood [affective] disorder
+Birth to 6	F	2018	F4310	.0326530612244898	5	Post-traumatic stress disorder, unspecified
+Birth to 6	F	2018	F4325	.0204081632653061	9.5	Adjustment disorder with mixed disturbance of emotions and conduct
+Birth to 6	F	2018	F6381	.0285714285714286	6	Intermittent explosive disorder
+Birth to 6	F	2018	F902	.0836734693877551	2	Attention-deficit hyperactivity disorder, combined type
+Birth to 6	F	2018	F909	.026530612244898	7	Attention-deficit hyperactivity disorder, unspecified type
+Birth to 6	F	2018	F913	.0448979591836735	4	Oppositional defiant disorder
+7-9	M	2018	F319	.0232769044740024	9.5	Bipolar disorder, unspecified
+7-9	M	2018	F322	.028415961305925	6	Major depressive disorder, single episode, severe without psychotic features
+7-9	M	2018	F329	.0232769044740024	9.5	Major depressive disorder, single episode, unspecified
+7-9	M	2018	F332	.0285671100362757	5	Major depressive disorder, recurrent severe without psychotic features
+7-9	M	2018	F3481	.525846432889964	1	Disruptive mood dysregulation disorder
+7-9	M	2018	F39	.0554715840386941	3	Unspecified mood [affective] disorder
+7-9	M	2018	F6381	.0234280532043531	8	Intermittent explosive disorder
+7-9	M	2018	F902	.0577388149939541	2	Attention-deficit hyperactivity disorder, combined type
+7-9	M	2018	F909	.0247883917775091	7	Attention-deficit hyperactivity disorder, unspecified type
+7-9	M	2018	F913	.0344619105199516	4	Oppositional defiant disorder
+7-9	F	2018	F322	.0351239669421488	6	Major depressive disorder, single episode, severe without psychotic features
+7-9	F	2018	F323	.0243801652892562	10	Major depressive disorder, single episode, severe with psychotic features
+7-9	F	2018	F329	.0326446280991736	7	Major depressive disorder, single episode, unspecified
+7-9	F	2018	F332	.0446280991735537	3	Major depressive disorder, recurrent severe without psychotic features
+7-9	F	2018	F333	.0301652892561983	8	Major depressive disorder, recurrent, severe with psychotic symptoms
+7-9	F	2018	F3481	.431404958677686	1	Disruptive mood dysregulation disorder
+7-9	F	2018	F39	.059504132231405	2	Unspecified mood [affective] disorder
+7-9	F	2018	F4310	.0256198347107438	9	Post-traumatic stress disorder, unspecified
+7-9	F	2018	F902	.0384297520661157	5	Attention-deficit hyperactivity disorder, combined type
+7-9	F	2018	F913	.040495867768595	4	Oppositional defiant disorder
+10-12	M	2018	F319	.0328025754807274	7	Bipolar disorder, unspecified
+10-12	M	2018	F322	.0455929696336901	3	Major depressive disorder, single episode, severe without psychotic features
+10-12	M	2018	F329	.0402853911076307	5	Major depressive disorder, single episode, unspecified
+10-12	M	2018	F332	.0772644218219786	2	Major depressive disorder, recurrent severe without psychotic features
+10-12	M	2018	F333	.0261028452101279	9	Major depressive disorder, recurrent, severe with psychotic symptoms
+10-12	M	2018	F3481	.416166362133473	1	Disruptive mood dysregulation disorder
+10-12	M	2018	F39	.0444618463412512	4	Unspecified mood [affective] disorder
+10-12	M	2018	F6381	.0195771339075959	10	Intermittent explosive disorder
+10-12	M	2018	F902	.0320194901244236	8	Attention-deficit hyperactivity disorder, combined type
+10-12	M	2018	F913	.0329765944487949	6	Oppositional defiant disorder
+10-12	F	2018	F319	.0252568493150685	10	Bipolar disorder, unspecified
+10-12	F	2018	F321	.026027397260274	9	Major depressive disorder, single episode, moderate
+10-12	F	2018	F322	.0946061643835616	3	Major depressive disorder, single episode, severe without psychotic features
+10-12	F	2018	F323	.0328767123287671	8	Major depressive disorder, single episode, severe with psychotic features
+10-12	F	2018	F329	.0602739726027397	5	Major depressive disorder, single episode, unspecified
+10-12	F	2018	F331	.0354452054794521	6	Major depressive disorder, recurrent, moderate
+10-12	F	2018	F332	.186900684931507	2	Major depressive disorder, recurrent severe without psychotic features
+10-12	F	2018	F333	.0708047945205479	4	Major depressive disorder, recurrent, severe with psychotic symptoms
+10-12	F	2018	F3481	.224058219178082	1	Disruptive mood dysregulation disorder
+10-12	F	2018	F39	.0352739726027397	7	Unspecified mood [affective] disorder
+13-17	M	2018	F29	.0159802123283864	10	Unspecified psychosis not due to a substance or known physiological condition
+13-17	M	2018	F319	.0422711355677839	5	Bipolar disorder, unspecified
+13-17	M	2018	F321	.017953421155022	9	Major depressive disorder, single episode, moderate
+13-17	M	2018	F322	.0658940581401812	3	Major depressive disorder, single episode, severe without psychotic features
+13-17	M	2018	F329	.055388805513868	4	Major depressive disorder, single episode, unspecified
+13-17	M	2018	F331	.0356845089211272	8	Major depressive disorder, recurrent, moderate
+13-17	M	2018	F332	.193346673336668	2	Major depressive disorder, recurrent severe without psychotic features
+13-17	M	2018	F333	.041993218831638	6	Major depressive disorder, recurrent, severe with psychotic symptoms
+13-17	M	2018	F3481	.20663109332444	1	Disruptive mood dysregulation disorder
+13-17	M	2018	F39	.037574342726919	7	Unspecified mood [affective] disorder
+13-17	F	2018	F314	.0170504328321593	10	Bipolar disorder, current episode depressed, severe, without psychotic features
+13-17	F	2018	F319	.0371149195668174	7	Bipolar disorder, unspecified
+13-17	F	2018	F321	.0213261837170995	9	Major depressive disorder, single episode, moderate
+13-17	F	2018	F322	.0819226860126871	3	Major depressive disorder, single episode, severe without psychotic features
+13-17	F	2018	F329	.0635579854904847	4	Major depressive disorder, single episode, unspecified
+13-17	F	2018	F331	.0496092244068272	6	Major depressive disorder, recurrent, moderate
+13-17	F	2018	F332	.318333158097641	1	Major depressive disorder, recurrent severe without psychotic features
+13-17	F	2018	F333	.0609995443872008	5	Major depressive disorder, recurrent, severe with psychotic symptoms
+13-17	F	2018	F3481	.110293344548418	2	Disruptive mood dysregulation disorder
+13-17	F	2018	F39	.0280026635825185	8	Unspecified mood [affective] disorder
+18-21	M	2018	F200	.0304552912223134	10	Paranoid schizophrenia
+18-21	M	2018	F209	.0325574241181296	9	Schizophrenia, unspecified
+18-21	M	2018	F250	.0484003281378179	2	Schizoaffective disorder, bipolar type
+18-21	M	2018	F29	.0415812141099262	3	Unspecified psychosis not due to a substance or known physiological condition
+18-21	M	2018	F312	.0327112387202625	8	Bipolar disorder, current episode manic severe with psychotic features
+18-21	M	2018	F319	.0391201804757998	4	Bipolar disorder, unspecified
+18-21	M	2018	F322	.0363002461033634	6	Major depressive disorder, single episode, severe without psychotic features
+18-21	M	2018	F329	.0337366694011485	7	Major depressive disorder, single episode, unspecified
+18-21	M	2018	F332	.203855619360131	1	Major depressive disorder, recurrent severe without psychotic features
+18-21	M	2018	F333	.036402789171452	5	Major depressive disorder, recurrent, severe with psychotic symptoms
+18-21	F	2018	F250	.0268804415053047	9	Schizoaffective disorder, bipolar type
+18-21	F	2018	F314	.0428659784004948	3	Bipolar disorder, current episode depressed, severe, without psychotic features
+18-21	F	2018	F3181	.0477663066749132	2	Bipolar II disorder
+18-21	F	2018	F319	.0391074741900186	7	Bipolar disorder, unspecified
+18-21	F	2018	F322	.0376326181074266	8	Major depressive disorder, single episode, severe without psychotic features
+18-21	F	2018	F329	.0391550501926828	6	Major depressive disorder, single episode, unspecified
+18-21	F	2018	F331	.0398686902326467	5	Major depressive disorder, recurrent, moderate
+18-21	F	2018	F332	.302868832960655	1	Major depressive disorder, recurrent severe without psychotic features
+18-21	F	2018	F333	.0409629382939245	4	Major depressive disorder, recurrent, severe with psychotic symptoms
+18-21	F	2018	F39	.0214092011989153	10	Unspecified mood [affective] disorder
+22-29	M	2018	F1020	.0443958368386895	7	Alcohol dependence, uncomplicated
+22-29	M	2018	F1120	.0509097901593635	3	Opioid dependence, uncomplicated
+22-29	M	2018	F1123	.0461264812633704	4	Opioid dependence with withdrawal
+22-29	M	2018	F200	.0447323510323775	6	Paranoid schizophrenia
+22-29	M	2018	F209	.044756387760498	5	Schizophrenia, unspecified
+22-29	M	2018	F250	.0808835901257121	2	Schizoaffective disorder, bipolar type
+22-29	M	2018	F29	.030118020335072	9	Unspecified psychosis not due to a substance or known physiological condition
+22-29	M	2018	F312	.0295892123164195	10	Bipolar disorder, current episode manic severe with psychotic features
+22-29	M	2018	F319	.0336273826406749	8	Bipolar disorder, unspecified
+22-29	M	2018	F332	.146263490613658	1	Major depressive disorder, recurrent severe without psychotic features
+22-29	F	2018	F1120	.0330592867068087	7	Opioid dependence, uncomplicated
+22-29	F	2018	F1123	.0393411301528485	6	Opioid dependence with withdrawal
+22-29	F	2018	F250	.053902269569245	2	Schizoaffective disorder, bipolar type
+22-29	F	2018	F312	.0289775358962483	10	Bipolar disorder, current episode manic severe with psychotic features
+22-29	F	2018	F314	.0435965724872626	3	Bipolar disorder, current episode depressed, severe, without psychotic features
+22-29	F	2018	F3181	.0407885595182955	4	Bipolar II disorder
+22-29	F	2018	F319	.0396306160259379	5	Bipolar disorder, unspecified
+22-29	F	2018	F331	.031959240389069	9	Major depressive disorder, recurrent, moderate
+22-29	F	2018	F332	.230951829550718	1	Major depressive disorder, recurrent severe without psychotic features
+22-29	F	2018	F333	.0325961093098657	8	Major depressive disorder, recurrent, severe with psychotic symptoms
+30-39	M	2018	F1020	.06651430036098	3	Alcohol dependence, uncomplicated
+30-39	M	2018	F10239	.041630177072431	7	Alcohol dependence with withdrawal, unspecified
+30-39	M	2018	F1120	.0455603733686481	5	Opioid dependence, uncomplicated
+30-39	M	2018	F1123	.0489138560779204	4	Opioid dependence with withdrawal
+30-39	M	2018	F200	.0436807142704573	6	Paranoid schizophrenia
+30-39	M	2018	F209	.0380203772134054	8	Schizophrenia, unspecified
+30-39	M	2018	F250	.0857167268299976	2	Schizoaffective disorder, bipolar type
+30-39	M	2018	F319	.02943375269667	10	Bipolar disorder, unspecified
+30-39	M	2018	F332	.1383899011043	1	Major depressive disorder, recurrent severe without psychotic features
+30-39	M	2018	F333	.0307580579703954	9	Major depressive disorder, recurrent, severe with psychotic symptoms
+30-39	F	2018	F1020	.0400753509496284	5	Alcohol dependence, uncomplicated
+30-39	F	2018	F1120	.0295984723369116	10	Opioid dependence, uncomplicated
+30-39	F	2018	F1123	.0404624277456647	4	Opioid dependence with withdrawal
+30-39	F	2018	F250	.0689770850536747	2	Schizoaffective disorder, bipolar type
+30-39	F	2018	F312	.032514450867052	9	Bipolar disorder, current episode manic severe with psychotic features
+30-39	F	2018	F314	.0447460776218002	3	Bipolar disorder, current episode depressed, severe, without psychotic features
+30-39	F	2018	F3181	.0363852188274154	7	Bipolar II disorder
+30-39	F	2018	F319	.0373400082576383	6	Bipolar disorder, unspecified
+30-39	F	2018	F332	.207757018992568	1	Major depressive disorder, recurrent severe without psychotic features
+30-39	F	2018	F333	.0325402559867878	8	Major depressive disorder, recurrent, severe with psychotic symptoms
+40-55	M	2018	F1020	.0992348035422578	2	Alcohol dependence, uncomplicated
+40-55	M	2018	F10239	.0633479494454475	4	Alcohol dependence with withdrawal, unspecified
+40-55	M	2018	F1123	.0347347605536927	7	Opioid dependence with withdrawal
+40-55	M	2018	F200	.0361963717651105	6	Paranoid schizophrenia
+40-55	M	2018	F209	.029782477860889	9	Schizophrenia, unspecified
+40-55	M	2018	F250	.0797867767173932	3	Schizoaffective disorder, bipolar type
+40-55	M	2018	F251	.031553606740607	8	Schizoaffective disorder, depressive type
+40-55	M	2018	F319	.0285616026137048	10	Bipolar disorder, unspecified
+40-55	M	2018	F332	.156891066976184	1	Major depressive disorder, recurrent severe without psychotic features
+40-55	M	2018	F333	.0445533488092167	5	Major depressive disorder, recurrent, severe with psychotic symptoms
+40-55	F	2018	F1020	.0527646192428645	3	Alcohol dependence, uncomplicated
+40-55	F	2018	F10239	.0367421679073285	6	Alcohol dependence with withdrawal, unspecified
+40-55	F	2018	F250	.0719517535129971	2	Schizoaffective disorder, bipolar type
+40-55	F	2018	F312	.0314676963496676	8	Bipolar disorder, current episode manic severe with psychotic features
+40-55	F	2018	F314	.042295290792564	5	Bipolar disorder, current episode depressed, severe, without psychotic features
+40-55	F	2018	F315	.02915887106405	9	Bipolar disorder, current episode depressed, severe, with psychotic features
+40-55	F	2018	F3181	.0289001234027308	10	Bipolar II disorder
+40-55	F	2018	F319	.0352095856056686	7	Bipolar disorder, unspecified
+40-55	F	2018	F332	.219577246128737	1	Major depressive disorder, recurrent severe without psychotic features
+40-55	F	2018	F333	.0476095696827356	4	Major depressive disorder, recurrent, severe with psychotic symptoms
+55-65	M	2018	F1020	.110819097678493	2	Alcohol dependence, uncomplicated
+55-65	M	2018	F10239	.0772906462788197	3	Alcohol dependence with withdrawal, unspecified
+55-65	M	2018	F1123	.0376697328077092	7	Opioid dependence with withdrawal
+55-65	M	2018	F200	.0384263130649464	6	Paranoid schizophrenia
+55-65	M	2018	F209	.029148249910405	9	Schizophrenia, unspecified
+55-65	M	2018	F250	.063592561621471	4	Schizoaffective disorder, bipolar type
+55-65	M	2018	F251	.0306215904113407	8	Schizoaffective disorder, depressive type
+55-65	M	2018	F314	.0242105682315932	10	Bipolar disorder, current episode depressed, severe, without psychotic features
+55-65	M	2018	F332	.170748218054394	1	Major depressive disorder, recurrent severe without psychotic features
+55-65	M	2018	F333	.0529606180066101	5	Major depressive disorder, recurrent, severe with psychotic symptoms
+55-65	F	2018	F1020	.0566805589605295	4	Alcohol dependence, uncomplicated
+55-65	F	2018	F10239	.0376562883059573	5	Alcohol dependence with withdrawal, unspecified
+55-65	F	2018	F200	.0295170384898259	9	Paranoid schizophrenia
+55-65	F	2018	F250	.0745280706055406	2	Schizoaffective disorder, bipolar type
+55-65	F	2018	F251	.0263299828389311	10	Schizoaffective disorder, depressive type
+55-65	F	2018	F312	.0367737190487865	6	Bipolar disorder, current episode manic severe with psychotic features
+55-65	F	2018	F314	.0361853395440059	7	Bipolar disorder, current episode depressed, severe, without psychotic features
+55-65	F	2018	F319	.0331944103947046	8	Bipolar disorder, unspecified
+55-65	F	2018	F332	.220397156165727	1	Major depressive disorder, recurrent severe without psychotic features
+55-65	F	2018	F333	.0619269428781564	3	Major depressive disorder, recurrent, severe with psychotic symptoms
+66-77	M	2018	F0391	.0407848324514991	5	Unspecified dementia with behavioral disturbance
+66-77	M	2018	F1020	.0955687830687831	2	Alcohol dependence, uncomplicated
+66-77	M	2018	F10239	.0681216931216931	3	Alcohol dependence with withdrawal, unspecified
+66-77	M	2018	F1123	.0275573192239859	8	Opioid dependence with withdrawal
+66-77	M	2018	F200	.0276675485008818	7	Paranoid schizophrenia
+66-77	M	2018	F250	.0358245149911817	6	Schizoaffective disorder, bipolar type
+66-77	M	2018	F322	.023478835978836	10	Major depressive disorder, single episode, severe without psychotic features
+66-77	M	2018	F331	.0268959435626102	9	Major depressive disorder, recurrent, moderate
+66-77	M	2018	F332	.189704585537919	1	Major depressive disorder, recurrent severe without psychotic features
+66-77	M	2018	F333	.0652557319223986	4	Major depressive disorder, recurrent, severe with psychotic symptoms
+66-77	F	2018	F0391	.0424773352347968	4	Unspecified dementia with behavioral disturbance
+66-77	F	2018	F1020	.0341244779464195	6	Alcohol dependence, uncomplicated
+66-77	F	2018	F10239	.0254660283182235	10	Alcohol dependence with withdrawal, unspecified
+66-77	F	2018	F200	.0331058368136905	7	Paranoid schizophrenia
+66-77	F	2018	F250	.0506264642966283	3	Schizoaffective disorder, bipolar type
+66-77	F	2018	F29	.0281144952633187	9	Unspecified psychosis not due to a substance or known physiological condition
+66-77	F	2018	F312	.0402363247427931	5	Bipolar disorder, current episode manic severe with psychotic features
+66-77	F	2018	F331	.0302536416420495	8	Major depressive disorder, recurrent, moderate
+66-77	F	2018	F332	.237648976265662	1	Major depressive disorder, recurrent severe without psychotic features
+66-77	F	2018	F333	.0862789039421412	2	Major depressive disorder, recurrent, severe with psychotic symptoms
+78 and up	M	2018	F0151	.109327548806941	3	Vascular dementia with behavioral disturbance
+78 and up	M	2018	F0390	.0212581344902386	10	Unspecified dementia without behavioral disturbance
+78 and up	M	2018	F0391	.247722342733189	1	Unspecified dementia with behavioral disturbance
+78 and up	M	2018	F29	.0329718004338395	5	Unspecified psychosis not due to a substance or known physiological condition
+78 and up	M	2018	F312	.0216919739696312	9	Bipolar disorder, current episode manic severe with psychotic features
+78 and up	M	2018	F322	.0281995661605206	6.5	Major depressive disorder, single episode, severe without psychotic features
+78 and up	M	2018	F329	.0281995661605206	6.5	Major depressive disorder, single episode, unspecified
+78 and up	M	2018	F331	.0221258134490239	8	Major depressive disorder, recurrent, moderate
+78 and up	M	2018	F332	.129284164859002	2	Major depressive disorder, recurrent severe without psychotic features
+78 and up	M	2018	F333	.0863340563991323	4	Major depressive disorder, recurrent, severe with psychotic symptoms
+78 and up	F	2018	F0151	.0866863905325444	4	Vascular dementia with behavioral disturbance
+78 and up	F	2018	F0390	.0260355029585799	7	Unspecified dementia without behavioral disturbance
+78 and up	F	2018	F0391	.217159763313609	1	Unspecified dementia with behavioral disturbance
+78 and up	F	2018	F29	.0343195266272189	5	Unspecified psychosis not due to a substance or known physiological condition
+78 and up	F	2018	F312	.020414201183432	10	Bipolar disorder, current episode manic severe with psychotic features
+78 and up	F	2018	F322	.0263313609467456	6	Major depressive disorder, single episode, severe without psychotic features
+78 and up	F	2018	F329	.0257396449704142	8	Major depressive disorder, single episode, unspecified
+78 and up	F	2018	F331	.0227810650887574	9	Major depressive disorder, recurrent, moderate
+78 and up	F	2018	F332	.171301775147929	2	Major depressive disorder, recurrent severe without psychotic features
+78 and up	F	2018	F333	.0976331360946746	3	Major depressive disorder, recurrent, severe with psychotic symptoms
